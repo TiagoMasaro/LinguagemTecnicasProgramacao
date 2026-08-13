@@ -1,0 +1,14 @@
+C:\Programação C#\HelloFuncao\bin\Debug\net10.0\HelloFuncao.exe
+C:\Programação C#\HelloFuncao\bin\Debug\net10.0\HelloFuncao.deps.json
+C:\Programação C#\HelloFuncao\bin\Debug\net10.0\HelloFuncao.runtimeconfig.json
+C:\Programação C#\HelloFuncao\bin\Debug\net10.0\HelloFuncao.dll
+C:\Programação C#\HelloFuncao\bin\Debug\net10.0\HelloFuncao.pdb
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.AssemblyInfoInputs.cache
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.AssemblyInfo.cs
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.csproj.CoreCompileInputs.cache
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.dll
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\refint\HelloFuncao.dll
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.pdb
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\HelloFuncao.genruntimeconfig.cache
+C:\Programação C#\HelloFuncao\obj\Debug\net10.0\ref\HelloFuncao.dll

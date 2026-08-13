@@ -1,0 +1,14 @@
+C:\Programação C#\ArrayCSharp\bin\Debug\net10.0\ArrayCSharp.exe
+C:\Programação C#\ArrayCSharp\bin\Debug\net10.0\ArrayCSharp.deps.json
+C:\Programação C#\ArrayCSharp\bin\Debug\net10.0\ArrayCSharp.runtimeconfig.json
+C:\Programação C#\ArrayCSharp\bin\Debug\net10.0\ArrayCSharp.dll
+C:\Programação C#\ArrayCSharp\bin\Debug\net10.0\ArrayCSharp.pdb
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.AssemblyInfoInputs.cache
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.AssemblyInfo.cs
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.csproj.CoreCompileInputs.cache
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.dll
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\refint\ArrayCSharp.dll
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.pdb
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ArrayCSharp.genruntimeconfig.cache
+C:\Programação C#\ArrayCSharp\obj\Debug\net10.0\ref\ArrayCSharp.dll

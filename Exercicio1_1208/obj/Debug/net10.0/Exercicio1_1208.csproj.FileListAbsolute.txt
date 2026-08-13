@@ -1,0 +1,14 @@
+C:\Programação C#\Exercicio1_1208\bin\Debug\net10.0\Exercicio1_1208.exe
+C:\Programação C#\Exercicio1_1208\bin\Debug\net10.0\Exercicio1_1208.deps.json
+C:\Programação C#\Exercicio1_1208\bin\Debug\net10.0\Exercicio1_1208.runtimeconfig.json
+C:\Programação C#\Exercicio1_1208\bin\Debug\net10.0\Exercicio1_1208.dll
+C:\Programação C#\Exercicio1_1208\bin\Debug\net10.0\Exercicio1_1208.pdb
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.AssemblyInfoInputs.cache
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.AssemblyInfo.cs
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.csproj.CoreCompileInputs.cache
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.dll
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\refint\Exercicio1_1208.dll
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.pdb
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\Exercicio1_1208.genruntimeconfig.cache
+C:\Programação C#\Exercicio1_1208\obj\Debug\net10.0\ref\Exercicio1_1208.dll
