@@ -1,0 +1,14 @@
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.AssemblyInfoInputs.cache
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.AssemblyInfo.cs
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.csproj.CoreCompileInputs.cache
+C:\Programação C#\Atividade6\bin\Debug\net10.0\Atividade6.exe
+C:\Programação C#\Atividade6\bin\Debug\net10.0\Atividade6.deps.json
+C:\Programação C#\Atividade6\bin\Debug\net10.0\Atividade6.runtimeconfig.json
+C:\Programação C#\Atividade6\bin\Debug\net10.0\Atividade6.dll
+C:\Programação C#\Atividade6\bin\Debug\net10.0\Atividade6.pdb
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.dll
+C:\Programação C#\Atividade6\obj\Debug\net10.0\refint\Atividade6.dll
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.pdb
+C:\Programação C#\Atividade6\obj\Debug\net10.0\Atividade6.genruntimeconfig.cache
+C:\Programação C#\Atividade6\obj\Debug\net10.0\ref\Atividade6.dll
