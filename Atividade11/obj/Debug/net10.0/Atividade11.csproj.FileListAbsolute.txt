@@ -1,0 +1,14 @@
+C:\Programação C#\Atividade11\bin\Debug\net10.0\Atividade11.exe
+C:\Programação C#\Atividade11\bin\Debug\net10.0\Atividade11.deps.json
+C:\Programação C#\Atividade11\bin\Debug\net10.0\Atividade11.runtimeconfig.json
+C:\Programação C#\Atividade11\bin\Debug\net10.0\Atividade11.dll
+C:\Programação C#\Atividade11\bin\Debug\net10.0\Atividade11.pdb
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.AssemblyInfoInputs.cache
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.AssemblyInfo.cs
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.csproj.CoreCompileInputs.cache
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.dll
+C:\Programação C#\Atividade11\obj\Debug\net10.0\refint\Atividade11.dll
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.pdb
+C:\Programação C#\Atividade11\obj\Debug\net10.0\Atividade11.genruntimeconfig.cache
+C:\Programação C#\Atividade11\obj\Debug\net10.0\ref\Atividade11.dll
