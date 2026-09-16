@@ -1,0 +1,14 @@
+C:\Programação C#\Atividades\Atividade13\bin\Debug\net10.0\Atividade13.exe
+C:\Programação C#\Atividades\Atividade13\bin\Debug\net10.0\Atividade13.deps.json
+C:\Programação C#\Atividades\Atividade13\bin\Debug\net10.0\Atividade13.runtimeconfig.json
+C:\Programação C#\Atividades\Atividade13\bin\Debug\net10.0\Atividade13.dll
+C:\Programação C#\Atividades\Atividade13\bin\Debug\net10.0\Atividade13.pdb
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.AssemblyInfoInputs.cache
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.AssemblyInfo.cs
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.csproj.CoreCompileInputs.cache
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.dll
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\refint\Atividade13.dll
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.pdb
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\Atividade13.genruntimeconfig.cache
+C:\Programação C#\Atividades\Atividade13\obj\Debug\net10.0\ref\Atividade13.dll
