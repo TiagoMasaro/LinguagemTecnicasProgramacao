@@ -1,0 +1,14 @@
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\bin\Debug\net10.0\PreProva_ExercicioMatriz.exe
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\bin\Debug\net10.0\PreProva_ExercicioMatriz.deps.json
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\bin\Debug\net10.0\PreProva_ExercicioMatriz.runtimeconfig.json
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\bin\Debug\net10.0\PreProva_ExercicioMatriz.dll
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\bin\Debug\net10.0\PreProva_ExercicioMatriz.pdb
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.AssemblyInfo.cs
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.dll
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\refint\PreProva_ExercicioMatriz.dll
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.pdb
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\PreProva_ExercicioMatriz.genruntimeconfig.cache
+C:\Programação C#\Atividades\PreProva_ExercicioMatriz\obj\Debug\net10.0\ref\PreProva_ExercicioMatriz.dll
