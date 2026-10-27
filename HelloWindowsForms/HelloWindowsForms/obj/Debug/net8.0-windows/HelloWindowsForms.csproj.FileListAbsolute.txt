@@ -1,0 +1,16 @@
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\bin\Debug\net8.0-windows\HelloWindowsForms.exe
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\bin\Debug\net8.0-windows\HelloWindowsForms.deps.json
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\bin\Debug\net8.0-windows\HelloWindowsForms.runtimeconfig.json
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\bin\Debug\net8.0-windows\HelloWindowsForms.dll
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\bin\Debug\net8.0-windows\HelloWindowsForms.pdb
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.Form1.resources
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.csproj.GenerateResource.cache
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.AssemblyInfoInputs.cache
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.AssemblyInfo.cs
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.dll
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\refint\HelloWindowsForms.dll
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.pdb
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\HelloWindowsForms.genruntimeconfig.cache
+C:\Users\12968505602\Downloads\HelloWindowsForms\HelloWindowsForms\obj\Debug\net8.0-windows\ref\HelloWindowsForms.dll
