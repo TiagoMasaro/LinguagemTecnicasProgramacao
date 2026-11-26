@@ -1,0 +1,16 @@
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.AssemblyInfoInputs.cache
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.AssemblyInfo.cs
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.exe
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.deps.json
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.runtimeconfig.json
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.runtimeconfig.dev.json
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.dll
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\bin\Debug\net11.0\SistemaAluguel.pdb
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.dll
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\refint\SistemaAluguel.dll
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.pdb
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaAluguel.genruntimeconfig.cache
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\ref\SistemaAluguel.dll
+C:\Users\tiago\Downloads\Programacao C#\SistemaAluguelCarro\SistemaAluguel\obj\Debug\net11.0\SistemaA.000A99D0.Up2Date
